@@ -1,0 +1,7 @@
+Actual_Class,Wheat,Maize,Other Crop,Forest,Urban,Waterbody
+Wheat,47,0,3,0,0,0
+Maize,3,40,6,0,1,0
+Other Crop,1,16,33,0,0,0
+Forest,0,1,13,36,0,0
+Urban,1,0,5,0,44,0
+Waterbody,0,1,2,0,0,46
