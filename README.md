@@ -17,7 +17,7 @@ Select any week (W47–W15) → click any maize pixel → get real-time:
 - Weekly irrigation trigger decision (Irrigate / No irrigation needed)
 - Live soil water column showing FC, SM and WP levels
 
-![App Screenshot](docs/app_screenshot.png)
+!outputs/maps/Screenshot (682).png
 ---
 
 ## Overview
