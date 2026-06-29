@@ -4,6 +4,20 @@
 > Dr. Rajendra Prasad Central Agricultural University (RPCAU), Pusa, Bihar  
 > Season: Rabi 2024–25 | Study Area: North Bihar (~53,317 km²)
 
+## 🌐 Live Interactive App
+
+[![Open App](https://img.shields.io/badge/GEE%20App-Live-brightgreen)](https://nikhil14619581l.users.earthengine.app/view/northbihar-irrigation-inspector)
+
+**North Bihar Maize — Irrigation Inspector (250m)**  
+👉 [Open App](https://nikhil14619581l.users.earthengine.app/view/northbihar-irrigation-inspector)
+
+Select any week (W47–W15) → click any maize pixel → get real-time:
+- Crop Water Requirement (CWR) and Irrigation Water Requirement (IWR)
+- Soil moisture status and root zone depletion
+- Weekly irrigation trigger decision (Irrigate / No irrigation needed)
+- Live soil water column showing FC, SM and WP levels
+
+![App Screenshot](docs/app_screenshot.png)
 ---
 
 ## Overview
